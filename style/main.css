@@ -314,28 +314,28 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
 	background: url('../tile-sets/UHAUL/2.png');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/UHAUL/4.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}
   .tile.tile-8 .tile-inner {
 	background: url('../tile-sets/UHAUL/8.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}
   .tile.tile-16 .tile-inner {
 	background: url('../tile-sets/UHAUL/16.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
@@ -349,41 +349,41 @@ hr {
 	color: rgba(0,0,0,0);}
   .tile.tile-64 .tile-inner {
 	background: url('../tile-sets/UHAUL/64.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}	
   .tile.tile-128 .tile-inner {
     background: url('../tile-sets/UHAUL/128.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}
   .tile.tile-256 .tile-inner {
     background: url('../tile-sets/UHAUL/256.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0);}
   .tile.tile-512 .tile-inner {
     background: url('../tile-sets/UHAUL/512.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
 	color: rgba(0,0,0,0); }
   .tile.tile-1024 .tile-inner {
 	background: url('../tile-sets/UHAUL/1024.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	color: rgba(0,0,0,0);}
   .tile.tile-2048 .tile-inner {
 	background: url('../tile-sets/UHAUL/2048.jpg');
-	background-size: inherit;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
